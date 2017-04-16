@@ -32,8 +32,6 @@ gulp.task 'ls', [], ->
 
 gulp.task 'ls-watch', <[ls]>, -> gulp.watch [path.join ls-dir, '**/*.ls'], <[ls]>
 
-kill-timeout = null
-
 CI = process.env.CI == 'true'
 
 gulp.task 'do-test', <[ls]>, (next) ->
