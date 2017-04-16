@@ -1,4 +1,4 @@
-# react-linking-model [![Build Status](https://travis-ci.org/iagurban/react-linking-model.svg?branch=master)](https://travis-ci.org/iagurban/react-linking-model)
+# react-linking-model [![Build Status](https://travis-ci.org/iagurban/react-linking-model.svg?branch=master)](https://travis-ci.org/iagurban/react-linking-model) [![codecov](https://codecov.io/gh/iagurban/gulp-gfonts/branch/master/graph/badge.svg)](https://codecov.io/gh/iagurban/gulp-gfonts)
 > Immutable observable data model with generating shorthand bindings for react components
 
 ## Install
