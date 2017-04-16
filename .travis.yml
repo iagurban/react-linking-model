@@ -3,6 +3,7 @@ node_js:
   - "node"
 before_script:
   - npm install -g gulp codecov
+  - npm install immutable
 script:
   - gulp test
   - codecov

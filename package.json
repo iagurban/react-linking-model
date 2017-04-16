@@ -31,6 +31,5 @@
   },
   "peerDependencies": {
     "immutable": ">=3"
-  },
-
+  }
 }
